@@ -31,7 +31,7 @@ A cross-platform application built with **React JS** (Web) and **React Native** 
 ### Web (React JS)
 
 ```bash
-git clone https://github.com/yourusername/product-diary.git
-cd product-diary/web
+git clone https://github.com/hkhrithik007BabaDudhBandharWorks.git
+cd BabaDudhBandharWorks.git
 npm install
-npm start
+npm run dev 
