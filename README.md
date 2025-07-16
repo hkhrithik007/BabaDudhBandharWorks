@@ -23,8 +23,8 @@ A cross-platform application built with **React JS** (Web) and **React Native** 
 ## 📸 Screenshots
 
 <!-- Add screenshots of your app here -->
-<img src="screenshots/web-view.png" alt="Web App Screenshot" width="600" />
-<img src="screenshots/mobile-view.png" alt="Mobile App Screenshot" width="300" />
+<img width="1440" height="900" alt="Screenshot 2025-07-16 at 8 42 19 PM" src="https://github.com/user-attachments/assets/177b5326-76a0-4aa2-bb2b-9ca6d69f881c" />
+<img width="1440" height="900" alt="Screenshot 2025-07-16 at 8 42 26 PM" src="https://github.com/user-attachments/assets/e362735e-55b9-4aef-a4a8-e896f4ea4d20" />
 
 ## 🧰 Installation
 
